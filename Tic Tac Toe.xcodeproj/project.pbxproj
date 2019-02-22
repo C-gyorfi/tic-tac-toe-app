@@ -15,7 +15,6 @@
 		40EFAC54209D0F42000B3BBF /* Board.png in Resources */ = {isa = PBXBuildFile; fileRef = 40EFAC51209D0F42000B3BBF /* Board.png */; };
 		40EFAC55209D0F42000B3BBF /* O.png in Resources */ = {isa = PBXBuildFile; fileRef = 40EFAC52209D0F42000B3BBF /* O.png */; };
 		40EFAC56209D0F42000B3BBF /* X.png in Resources */ = {isa = PBXBuildFile; fileRef = 40EFAC53209D0F42000B3BBF /* X.png */; };
-		40EFAC58209D11FC000B3BBF /* tttmarqlrg.gif in Resources */ = {isa = PBXBuildFile; fileRef = 40EFAC57209D11FC000B3BBF /* tttmarqlrg.gif */; };
 		40EFAC5A209E8F80000B3BBF /* replay-hi.png in Resources */ = {isa = PBXBuildFile; fileRef = 40EFAC59209E8F80000B3BBF /* replay-hi.png */; };
 /* End PBXBuildFile section */
 
@@ -30,7 +29,6 @@
 		40EFAC51209D0F42000B3BBF /* Board.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Board.png; path = Assets.xcassets/Board.png; sourceTree = "<group>"; };
 		40EFAC52209D0F42000B3BBF /* O.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = O.png; path = Assets.xcassets/O.png; sourceTree = "<group>"; };
 		40EFAC53209D0F42000B3BBF /* X.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = X.png; path = Assets.xcassets/X.png; sourceTree = "<group>"; };
-		40EFAC57209D11FC000B3BBF /* tttmarqlrg.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = tttmarqlrg.gif; sourceTree = "<group>"; };
 		40EFAC59209E8F80000B3BBF /* replay-hi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "replay-hi.png"; path = "Assets.xcassets/replay-hi.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -71,7 +69,6 @@
 				40EFAC51209D0F42000B3BBF /* Board.png */,
 				40EFAC52209D0F42000B3BBF /* O.png */,
 				40EFAC53209D0F42000B3BBF /* X.png */,
-				40EFAC57209D11FC000B3BBF /* tttmarqlrg.gif */,
 				40EFAC59209E8F80000B3BBF /* replay-hi.png */,
 				40EFAC48209D0B94000B3BBF /* LaunchScreen.storyboard */,
 				40EFAC4B209D0B94000B3BBF /* Info.plist */,
@@ -139,7 +136,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				40EFAC58209D11FC000B3BBF /* tttmarqlrg.gif in Resources */,
 				40EFAC56209D0F42000B3BBF /* X.png in Resources */,
 				40EFAC54209D0F42000B3BBF /* Board.png in Resources */,
 				40EFAC5A209E8F80000B3BBF /* replay-hi.png in Resources */,
@@ -324,6 +320,7 @@
 				40EFAC50209D0B94000B3BBF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
